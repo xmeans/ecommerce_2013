@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.xmeans.ecommerce</groupId>
+    <artifactId>ecommerce_base</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+
+    <dependencies>
+        <dependency>
+            <groupId>javax.servlet</groupId>
+            <artifactId>servlet-api</artifactId>
+            <version>2.5</version>
+            <scope>provided</scope>
+        </dependency>
+    </dependencies>
+
+    <!-- More Project Information -->
+    <url>http://maven.apache.org/</url>
+    <inceptionYear>2013</inceptionYear>
+    <licenses>
+        <license>
+            <name>The Mozilla Public License, Version 1.1</name>
+            <url>http://www.mozilla.org/MPL/MPL-1.1.html</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+    <organization>
+        <name>xmeans</name>
+        <url>http://www.xmeans.com/</url>
+    </organization>
+    <!--  -->
+    <developers>
+        <developer>
+            <id>xmeans</id>
+            <name>xmeans</name>
+            <email>416037514@qq.com</email>
+            <organization>xmeans(416037514@qq.com)</organization>
+            <organizationUrl>http://www.xmeans.com/</organizationUrl>
+            <roles>
+                <role>architect</role>
+                <role>developer</role>
+            </roles>
+            <timezone>+8</timezone>
+        </developer>
+    </developers>
+    <!--  -->
+    <contributors/>
+
+    <!-- Build Settings -->
+    <build>
+        <defaultGoal>compile</defaultGoal>
+        <directory>${basedir}/../out/${project.name}</directory>
+    </build>
+
+</project>
