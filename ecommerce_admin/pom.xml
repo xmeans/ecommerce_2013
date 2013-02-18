@@ -22,6 +22,11 @@
             <artifactId>ecommerce</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
+        <dependency>
+            <groupId>com.xmeans.ecommerce</groupId>
+            <artifactId>ecommerce_core</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
     </dependencies>
 
 </project>

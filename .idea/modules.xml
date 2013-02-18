@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/ecommerce/ecommerce.iml" filepath="$PROJECT_DIR$/ecommerce/ecommerce.iml" />
       <module fileurl="file://$PROJECT_DIR$/ecommerce_2013.iml" filepath="$PROJECT_DIR$/ecommerce_2013.iml" />
       <module fileurl="file://$PROJECT_DIR$/ecommerce_admin/ecommerce_admin.iml" filepath="$PROJECT_DIR$/ecommerce_admin/ecommerce_admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecommerce_core/ecommerce_core.iml" filepath="$PROJECT_DIR$/ecommerce_core/ecommerce_core.iml" />
       <module fileurl="file://$PROJECT_DIR$/ecommerce_web/ecommerce_web.iml" filepath="$PROJECT_DIR$/ecommerce_web/ecommerce_web.iml" />
     </modules>
   </component>
